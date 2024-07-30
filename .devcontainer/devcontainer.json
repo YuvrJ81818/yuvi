@@ -1,7 +1,7 @@
 {
     "name": "My Codespace",
     "image": "mcr.microsoft.com/vscode/devcontainers/python:3.8",
-    "postStartCommand": "python3 /workspaces/fuck/g.py",
+    "postStartCommand": "python3 /workspaces/yuvi/g.py",
     "customizations": {
         "vscode": {
             "settings": {
